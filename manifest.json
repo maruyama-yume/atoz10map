@@ -1,0 +1,15 @@
+{
+  "short_name": "10班蹭饭图",
+  "name": "2018 届 10 班去向图",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
